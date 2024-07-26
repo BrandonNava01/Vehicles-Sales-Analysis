@@ -1,0 +1,1 @@
+This project analyzes a comprehensive dataset of vehicle sales transactions to determine how various factors such as vehicle condition, manufacturing year, mileage, and market trends influence the selling price of vehicles.
